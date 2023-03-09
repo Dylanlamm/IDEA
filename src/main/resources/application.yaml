@@ -1,0 +1,20 @@
+
+name: zhngsan
+
+person:
+  name: ${name}
+  age: 20
+  address:
+    - beijing
+    - xiamen
+
+person2: {name: zhangsan, age: 20}
+
+address:
+  - beijing
+  - xiamen
+
+address2: {beijing, xiamen}
+
+msg1: 'hello \n world!'
+msg2: "hello \n world!"
