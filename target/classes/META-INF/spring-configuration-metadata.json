@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.example.myfirstspringboot.controller.Person",
+      "sourceType": "com.example.myfirstspringboot.controller.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.address",
+      "type": "java.lang.String[]",
+      "sourceType": "com.example.myfirstspringboot.controller.Person"
+    },
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.myfirstspringboot.controller.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.myfirstspringboot.controller.Person"
+    }
+  ],
+  "hints": []
+}
