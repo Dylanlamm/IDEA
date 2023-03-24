@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82ca294a-2faf-4078-bc52-6f7a250b9fce" name="Changes" comment="2023.03.24 commit." />
+    <list default="true" id="82ca294a-2faf-4078-bc52-6f7a250b9fce" name="Changes" comment="2023.03.24 commit.." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,7 +70,7 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "learning__springboot__DemoProject",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -254,8 +254,8 @@
       <list>
         <item itemvalue="JUnit.SpringbootRedisApplicationTests.testSet" />
         <item itemvalue="JUnit.SpringbootRedisApplicationTests.testGet" />
-        <item itemvalue="JUnit.SpringbootMybatisApplicationTests.testFindAll" />
         <item itemvalue="JUnit.SpringbootMybatisApplicationTests.testFindAll2" />
+        <item itemvalue="JUnit.SpringbootMybatisApplicationTests.testFindAll" />
         <item itemvalue="JUnit.SpringbootMybatisApplicationTests" />
       </list>
     </recent_temporary>
@@ -381,7 +381,8 @@
     <MESSAGE value="first commit." />
     <MESSAGE value="2023.03.24 commit" />
     <MESSAGE value="2023.03.24 commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.03.24 commit." />
+    <MESSAGE value="2023.03.24 commit.." />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.03.24 commit.." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
