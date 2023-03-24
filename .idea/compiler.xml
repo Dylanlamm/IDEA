@@ -11,20 +11,12 @@
         <module name="springboot-enable-other" />
         <module name="springboot-enable" />
         <module name="springboot-mybatis" />
+        <module name="redis-spring-boot-starter" />
         <module name="myFirstSpringBoot" />
         <module name="redis-spring-boot-autoconfigure" />
+        <module name="springboot-listener" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="myFirstSpringBoot" target="1.8" />
-      <module name="myFirstSpringBoot2" target="1.8" />
-      <module name="redis-spring-boot-autoconfigure" target="1.8" />
-      <module name="redis-spring-boot-starter" target="1.8" />
-      <module name="springboot-enable" target="1.8" />
-      <module name="springboot-enable-other" target="1.8" />
-      <module name="springboot-mybatis" target="1.8" />
-      <module name="springboot-redis" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -34,6 +26,7 @@
       <module name="redis-spring-boot-starter" options="-parameters" />
       <module name="springboot-enable" options="-parameters" />
       <module name="springboot-enable-other" options="-parameters" />
+      <module name="springboot-listener" options="-parameters" />
       <module name="springboot-mybatis" options="-parameters" />
       <module name="springboot-redis" options="-parameters" />
     </option>
